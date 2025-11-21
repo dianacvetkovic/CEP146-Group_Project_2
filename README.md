@@ -3,10 +3,10 @@
 
 ## Project Title: ____________
 ### Team Member Details:
-1. ___ (name + student number)
-2. ___
-3. ___
-4. ___
+1. Diana Cvetkovic - 142601244
+2. Nicolas Beard - 144229242
+3. David Oke - 112170253
+4. Daud Ilori - 113252258
 
 ## AI Topic Summary and Significance
 (insert topic summary and significance here!!!)
