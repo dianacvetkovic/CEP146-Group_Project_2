@@ -24,6 +24,7 @@ Generate recommendations for final tender decisions
 
 Source:
 Euronews. “Albania appoints world’s first AI government minister to root out corruption.”
+https://www.euronews.com/next/2025/09/12/albania-appoints-worlds-first-ai-government-minister-to-root-out-corruption
 
 3. Why the Albanian Government Created an AI Minister (Pros)
 3.1 Anti-Corruption Strategy
@@ -38,6 +39,7 @@ Reducing opportunities for bribery or favoritism
 
 Source:
 The Guardian. “Albania puts AI-created ‘minister’ in charge of public procurement.”
+https://www.theguardian.com/world/2025/sep/11/albania-diella-ai-minister-public-procurement
 
 3.2 Transparency & Consistency
 
@@ -58,6 +60,7 @@ Compliance reviews
 
 Source:
 Time Magazine. “The World’s First AI-Powered Minister Tests the Future of Government.”
+https://time.com/7324934/albania-ai-minister-diella/
 
 3.4 International Signaling (EU Integration)
 
@@ -65,6 +68,7 @@ Albania is seeking EU membership. Implementing advanced digital governance tools
 
 Source:
 Semafor. “Albania appoints first AI minister to oversee public procurement.”
+https://www.semafor.com/article/09/12/2025/albania-appoints-first-ai-minister-to-oversee-public-procurement
 
 4. Public Concerns and Criticisms (Cons)
 4.1 Legal and Constitutional Issues
@@ -79,6 +83,7 @@ No clear constitutional mechanism exists for disciplining or removing an AI mini
 
 Source:
 The AI Track. “Albania’s AI Minister Raises Legal Concerns.”
+https://theaitrack.com/albania-ai-minister-diella-corruption/?utm_source=chatgpt.com
 
 4.2 Lack of Accountability
 
@@ -90,6 +95,7 @@ AI systems cannot be prosecuted, impeached, or ethically interrogated
 
 Source:
 Times of India (Trending). Coverage of accountability concerns surrounding Diella.
+https://timesofindia.indiatimes.com/world/europe/who-is-diella-albania-appoints-worlds-first-ai-minister-public-tenders-to-be-100-corruption-free/articleshow/123852634.cms?utm_source=chatgpt.com
 
 4.3 Opacity of AI Models
 
@@ -103,6 +109,7 @@ Biased training data could skew decisions
 
 Source:
 MediaNama. “Analysis: Risks of AI-generated ministers in government roles.”
+https://www.medianama.com/2025/09/223-albania-ai-generated-minister-ai-governance/?utm_source=chatgpt.com
 
 4.4 Ethical & Democratic Issues
 
@@ -116,7 +123,9 @@ Democratic legitimacy is undermined when non-human entities make public decision
 
 Sources:
 • “Public Opinion and the Rise of Digital Minds: Perceived Risk, Trust, and Regulation Support.” (AIMS Survey) — Academic research on public trust in AI.
+https://arxiv.org/abs/2504.21849
 • “Democratizing AI Governance: Balancing Expertise and Public Participation.” — Argues that meaningful governance requires human oversight.
+https://arxiv.org/html/2502.08651v1
 
 5. Bigger Picture: AI Governance Implications
 5.1 Shift Toward Algorithmic Bureaucracy
@@ -149,6 +158,7 @@ Overreliance on technology in politically sensitive roles
 
 Source:
 “The Illusion of Rights-Based AI Regulation.” (2025) — Critical analysis of assuming AI regulation is automatically beneficial.
+https://www.researchgate.net/publication/389714506_The_Illusion_of_Rights_based_AI_Regulation
 
 6. Why This Topic Matters for an AI Class Project
 
@@ -164,7 +174,7 @@ Policy innovation (AI as a governance tool)
 
 It offers a “sci-fi becoming reality” moment that is perfect for a concise 3-minute video presentation.
 
-7. Possible Discussion Questions for Your Group Video
+7. Possible Discussion Questions for Group Video
 
 Choose one:
 
