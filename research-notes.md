@@ -337,190 +337,188 @@ AI can improve government transparency, efficiency, and service delivery — but
   - "In Albania, even Diella will be corrupted.”
 
 
-Coles Reasearch notes
+# Coles Research Notes — AI in Government: Albania’s AI Minister “Diella”
+## 1. Overview of the Topic
 
-Research Notes — AI in Government: Albania’s AI Minister “Diella”
-1. Overview of the Topic
+- Albania recently became the first country in the world to appoint an AI-generated “minister”, named Diella, to oversee public procurement and anti-corruption efforts.
+- This move created global attention and debate about whether AI should hold government roles and what this means for democratic governance.
 
-Albania recently became the first country in the world to appoint an AI-generated “minister”, named Diella, to oversee public procurement and anti-corruption efforts.
-This move created global attention and debate about whether AI should hold government roles and what this means for democratic governance.
+## 2. What is Diella?
 
-2. What is Diella?
+- Diella is a government-deployed AI system used to manage and evaluate public tenders and procurement decisions.
 
-Diella is a government-deployed AI system used to manage and evaluate public tenders and procurement decisions.
+- Initially released as part of Albania’s digital governance platform, it was later elevated to a minister-level position with authority over reviewing procurement bids.
 
-Initially released as part of Albania’s digital governance platform, it was later elevated to a minister-level position with authority over reviewing procurement bids.
+### Key functions:
 
-Key functions:
+- Process procurement applications
 
-Process procurement applications
+- Evaluate compliance with regulations
 
-Evaluate compliance with regulations
+- Flag corruption risks
 
-Flag corruption risks
+- Generate recommendations for final tender decisions
 
-Generate recommendations for final tender decisions
-
-Source:
+#### Source:
 Euronews. “Albania appoints world’s first AI government minister to root out corruption.”
 https://www.euronews.com/next/2025/09/12/albania-appoints-worlds-first-ai-government-minister-to-root-out-corruption
 
-3. Why the Albanian Government Created an AI Minister (Pros)
-3.1 Anti-Corruption Strategy
+## 3. Why the Albanian Government Created an AI Minister (Pros)
+### 3.1 Anti-Corruption Strategy
 
-The Albanian government claims Diella will reduce corruption by:
+#### The Albanian government claims Diella will reduce corruption by:
 
-Removing human discretion and influence
+- Removing human discretion and influence
 
-Applying rules consistently
+- Applying rules consistently
 
-Reducing opportunities for bribery or favoritism
+- Reducing opportunities for bribery or favoritism
 
-Source:
-The Guardian. “Albania puts AI-created ‘minister’ in charge of public procurement.”
+ #### Source:
+- The Guardian. “Albania puts AI-created ‘minister’ in charge of public procurement.”
 https://www.theguardian.com/world/2025/sep/11/albania-diella-ai-minister-public-procurement
 
-3.2 Transparency & Consistency
+### 3.2 Transparency & Consistency
 
-AI systems can log decision-making steps, apply regulations uniformly, and operate at scale without fatigue.
+- AI systems can log decision-making steps, apply regulations uniformly, and operate at scale without fatigue.
 
-Source:
+#### Source:
 Al Jazeera. “Albania appoints AI bot ‘minister’ to fight corruption in world first.”
 
-3.3 Efficiency & Modernization
+### 3.3 Efficiency & Modernization
 
-By digitizing procurement and automating evaluation, the government argues Diella speeds up:
+#### By digitizing procurement and automating evaluation, the government argues Diella speeds up:
 
-Bureaucratic processes
+- Bureaucratic processes
 
-Document checking
+- Document checking
 
-Compliance reviews
+- Compliance reviews
 
-Source:
+#### Source:
 Time Magazine. “The World’s First AI-Powered Minister Tests the Future of Government.”
 https://time.com/7324934/albania-ai-minister-diella/
 
-3.4 International Signaling (EU Integration)
+### 3.4 International Signaling (EU Integration)
 
-Albania is seeking EU membership. Implementing advanced digital governance tools is positioned as evidence of “serious modernization” and improved oversight.
+- Albania is seeking EU membership. Implementing advanced digital governance tools is positioned as evidence of “serious modernization” and improved oversight.
 
-Source:
+#### Source:
 Semafor. “Albania appoints first AI minister to oversee public procurement.”
 https://www.semafor.com/article/09/12/2025/albania-appoints-first-ai-minister-to-oversee-public-procurement
 
-4. Public Concerns and Criticisms (Cons)
-4.1 Legal and Constitutional Issues
+## 4. Public Concerns and Criticisms (Cons)
+### 4.1 Legal and Constitutional Issues
 
-Opponents argue:
+#### Opponents argue:
 
-Ministers must be human under Albanian law
+- Ministers must be human under Albanian law
 
-An AI cannot be legally accountable
+- An AI cannot be legally accountable
 
-No clear constitutional mechanism exists for disciplining or removing an AI minister
+- No clear constitutional mechanism exists for disciplining or removing an AI minister
 
-Source:
+#### Source:
 The AI Track. “Albania’s AI Minister Raises Legal Concerns.”
 https://theaitrack.com/albania-ai-minister-diella-corruption/?utm_source=chatgpt.com
 
-4.2 Lack of Accountability
+### 4.2 Lack of Accountability
 
-Key concerns:
+#### Key concerns:
 
-If Diella makes a harmful or biased decision, who is responsible?
+- If Diella makes a harmful or biased decision, who is responsible?
 
-AI systems cannot be prosecuted, impeached, or ethically interrogated
+- AI systems cannot be prosecuted, impeached, or ethically interrogated
 
-Source:
+#### Source:
 Times of India (Trending). Coverage of accountability concerns surrounding Diella.
 https://timesofindia.indiatimes.com/world/europe/who-is-diella-albania-appoints-worlds-first-ai-minister-public-tenders-to-be-100-corruption-free/articleshow/123852634.cms?utm_source=chatgpt.com
 
-4.3 Opacity of AI Models
+### 4.3 Opacity of AI Models
 
-Critics warn that replacing human corruption with algorithmic opacity might simply hide corruption:
+#### Critics warn that replacing human corruption with algorithmic opacity might simply hide corruption:
 
-Harder to audit
+- Harder to audit
 
-Vulnerable to unseen manipulation
+- Vulnerable to unseen manipulation
 
-Biased training data could skew decisions
+- Biased training data could skew decisions
 
-Source:
+#### Source:
 MediaNama. “Analysis: Risks of AI-generated ministers in government roles.”
 https://www.medianama.com/2025/09/223-albania-ai-generated-minister-ai-governance/?utm_source=chatgpt.com
 
-4.4 Ethical & Democratic Issues
+### 4.4 Ethical & Democratic Issues
 
-Scholars argue:
+#### Scholars argue:
 
-Governance requires human ethical judgment
+- Governance requires human ethical judgment
 
-AI lacks moral agency
+- AI lacks moral agency
 
-Democratic legitimacy is undermined when non-human entities make public decisions
+- Democratic legitimacy is undermined when non-human entities make public decisions
 
-Sources:
-• “Public Opinion and the Rise of Digital Minds: Perceived Risk, Trust, and Regulation Support.” (AIMS Survey) — Academic research on public trust in AI.
+#### Sources:
+- “Public Opinion and the Rise of Digital Minds: Perceived Risk, Trust, and Regulation Support.” (AIMS Survey) — Academic research on public trust in AI.
 https://arxiv.org/abs/2504.21849
-• “Democratizing AI Governance: Balancing Expertise and Public Participation.” — Argues that meaningful governance requires human oversight.
+- “Democratizing AI Governance: Balancing Expertise and Public Participation.” — Argues that meaningful governance requires human oversight.
 https://arxiv.org/html/2502.08651v1
 
-5. Bigger Picture: AI Governance Implications
-5.1 Shift Toward Algorithmic Bureaucracy
+## 5. Bigger Picture: AI Governance Implications
+### 5.1 Shift Toward Algorithmic Bureaucracy
 
-Diella represents a trend toward automated decision-making in:
+#### Diella represents a trend toward automated decision-making in:
 
-Public policy
+- Public policy
 
-Resource allocation
+- Resource allocation
 
-Compliance enforcement
+- Compliance enforcement
 
-5.2 Potential Benefits
+### 5.2 Potential Benefits
 
-More consistent rule application
+- More consistent rule application
 
-Less subjective bias
+- Less subjective bias
 
-Faster processing of large datasets
+- Faster processing of large datasets
 
-5.3 Potential Risks
+### 5.3 Potential Risks
 
-“Black box” decision processes
+- “Black box” decision processes
 
-Reduced democratic accountability
+- Reduced democratic accountability
 
-Unequal access if the system embeds biased rules
+- Unequal access if the system embeds biased rules
 
-Overreliance on technology in politically sensitive roles
+- Overreliance on technology in politically sensitive roles
 
-Source:
+#### Source:
 “The Illusion of Rights-Based AI Regulation.” (2025) — Critical analysis of assuming AI regulation is automatically beneficial.
 https://www.researchgate.net/publication/389714506_The_Illusion_of_Rights_based_AI_Regulation
 
-6. Why This Topic Matters for an AI Class Project
+## 6. Why This Topic Matters for an AI Class Project
 
-This case blends:
+### This case blends:
 
-Technical concerns (AI transparency, bias, auditability)
+- Technical concerns (AI transparency, bias, auditability)
 
-Ethical questions (who should make public decisions?)
+- Ethical questions (who should make public decisions?)
 
-Political debates (democracy vs automation)
+- Political debates (democracy vs automation)
 
-Policy innovation (AI as a governance tool)
+- Policy innovation (AI as a governance tool)
 
-It offers a “sci-fi becoming reality” moment that is perfect for a concise 3-minute video presentation.
+- It offers a “sci-fi becoming reality” moment that is perfect for a concise 3-minute video presentation.
 
-7. Possible Discussion Questions for Group Video
+## 7. Possible Discussion Questions for Group Video
 
-Choose one:
+### Choose one:
 
-Should AI systems ever hold formal government positions, or should their role be limited to advisory functions?
+- Should AI systems ever hold formal government positions, or should their role be limited to advisory functions?
 
-If AI makes a government decision that harms citizens, who should be responsible?
+- If AI makes a government decision that harms citizens, who should be responsible?
 
-Does an AI minister make government more transparent or less transparent?
+- Does an AI minister make government more transparent or less transparent?
 
-How can democratic systems maintain accountability when decision-making becomes automated?
+- How can democratic systems maintain accountability when decision-making becomes automated?
